@@ -1,0 +1,61 @@
+.navbar {
+    background-color:  rgba(32, 3, 197, 0.685) !important;
+    font-size: 25px;
+}
+.nav-link:hover {
+    font-weight: bold;
+    color:honeydew !important;
+    text-shadow: 3px 3px 3px lightblue;
+   
+}
+@media (min-width: 1200px) { 
+    body {
+        background-color: rgba(137, 43, 226, 0.096);
+    
+    }
+}
+b {
+    font-weight: bold;
+    color:lightblue;
+    font-size: 35px;
+    margin-left:15px;
+    text-shadow: 3px 3px 3px blue;
+}
+h1 {
+    color: lightblue;
+    text-shadow: 4px 5px 4px gray;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 50px;
+
+}
+.boss {
+    text-align: center;
+    color:gray;
+    font-style: italic;
+    font-size:30px;
+
+}
+
+.footer {
+    position:unset;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgba(32, 3, 197, 0.685);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+ }
+ p {
+    text-align: justify;
+    color:gray;
+    font-style: italic;
+    font-size:30px;
+    padding: 2px 2px 2px 2px;
+    margin:10px 10px 10px 10px;
+
+}
